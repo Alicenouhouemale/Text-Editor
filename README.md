@@ -4,7 +4,8 @@
 
 1. Descriptions
 2. Installation
-3. Mock up
+3. Usage
+4. Mock up
 
 ## Description
 
@@ -50,8 +51,12 @@ THEN you should have proper build scripts for a webpack application
 
 ## Installation
 
-Run this application by:
+Install all dependencies by running:
 
 npm install or npm i
+
+## Usage
+
+npm run start:dev
 
 ## Mock up
