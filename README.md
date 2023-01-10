@@ -62,5 +62,11 @@ npm run start:dev
 ## Mock up
 
 ![Screenshot-1](./assets/Screenshot-1.png)
+
+The following image shows the application's IndexedDB storage:
+
 ![Screenshot-2](./assets/Screenshot-2.png)
+
+The following image shows the application's manifest.json file:
+
 ![Screenshot-3](./assets/Screenshot-3.png)
