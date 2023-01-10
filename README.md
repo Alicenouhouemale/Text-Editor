@@ -60,3 +60,5 @@ npm install or npm i
 npm run start:dev
 
 ## Mock up
+
+![Screenshot1](src/assets/Screenshot-1.png)
