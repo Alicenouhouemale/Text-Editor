@@ -2,7 +2,7 @@
 
 ## Table of Contents:
 
-1. Descriptions
+1. Description
 2. Installation
 3. Usage
 4. Mock up
