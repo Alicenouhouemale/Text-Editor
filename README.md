@@ -70,3 +70,5 @@ The following image shows the application's IndexedDB storage:
 The following image shows the application's manifest.json file:
 
 ![Screenshot-3](./assets/Screenshot-3.png)
+
+URL for application deployed on Heroku: https://text-editor474.herokuapp.com/
