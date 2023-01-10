@@ -61,4 +61,6 @@ npm run start:dev
 
 ## Mock up
 
-![Screenshot1](src/assets/Screenshot-1.png)
+![Screenshot-1](./assets/Screenshot-1.png)
+![Screenshot-2](./assets/Screenshot-2.png)
+![Screenshot-3](./assets/Screenshot-3.png)
